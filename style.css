@@ -1,0 +1,24 @@
+body{
+    font-family: 'Roboto',sans-serif;
+}
+.bg-light{
+    background-color: #fff !important;
+}
+a.navbar-brand img {
+    width: 100px;
+}
+.banner-area h2 {
+    font-weight: 900;
+}
+
+.banner-area p {
+    color: #818181;
+    font-size: 12px;
+}
+.buy-now-button {
+    padding: 10px 20px;
+    background-color: #000;
+    border: none;
+    color: #fff;
+    border-radius: 10px;
+}
