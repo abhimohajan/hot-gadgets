@@ -1,6 +1,10 @@
 body{
     font-family: 'Roboto',sans-serif;
 }
+.container{
+    margin-bottom: 80px;
+    overflow: hidden;
+}
 .bg-light{
     background-color: #fff !important;
 }
@@ -21,4 +25,33 @@ a.navbar-brand img {
     border: none;
     color: #fff;
     border-radius: 10px;
+}
+.product-area h2 {
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.product-area h5 {
+    font-size: 14px;
+    color: #FFCF19;
+}
+.card {
+    text-align: center;
+    border: none;
+    box-shadow: 5px 5px 40px #F6F6F6;
+    padding: 10px;
+}
+
+.card h5 {
+    color: #000;
+    font-size: 20px;
+}
+.card p {
+    font-size: 12px;
+    color: gray;
+}
+p.card-text{
+    font-size: 12px;
+    color: #000;
+    font-weight: 700;
 }
